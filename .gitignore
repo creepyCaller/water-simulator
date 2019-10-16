@@ -1,0 +1,6 @@
+*.log
+*.temp
+/.vs/
+/Debug/
+/x64/
+/x86/
